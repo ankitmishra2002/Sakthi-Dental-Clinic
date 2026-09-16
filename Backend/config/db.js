@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 
 const connectDB = async () => {
   try {
-    const connStr = process.env.MONGODB_URI || 'mongodb+srv://<techankit16_db_user>:bEpZXf47Ufkblwwh@cluster0.exs9xuu.mongodb.net/';
+    const connStr = process.env.MONGODB_URI || 'mongodb://localhost:27017/fallback_db';
     const conn = await mongoose.connect(connStr, {
       serverSelectionTimeoutMS: 3000,
     });
