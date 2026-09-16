@@ -148,9 +148,9 @@ cd project
    ```
 3. Create a `.env` file in `Backend/` with your credentials:
    ```env
-   PORT=5000
-   MONGODB_URI=mongodb+srv://your_username:your_password@cluster0.mongodb.net/sakthi_dental?retryWrites=true&w=majority
-   NODE_ENV=development
+   PORT=
+   MONGODB_URI=
+   NODE_ENV=
    ```
 4. Start the backend server:
    ```bash
