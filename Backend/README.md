@@ -88,7 +88,7 @@ Backend/
 
 ```env
 PORT=5000
-MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.exs9xuu.mongodb.net/sakthi_dental?retryWrites=true&w=majority
+MONGODB_URI='mongodb://localhost:27017/fallback_db'
 NODE_ENV=development
 ```
 
