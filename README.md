@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heart.svg" width="80" height="80" alt="Sakthi Dental Clinic Logo" />
+  <img src="./assets/logo.jpg" width="220" alt="Sakthi Dental Clinic Logo" style="border-radius: 12px;" />
   <h1>Sakthi Dental Clinic</h1>
-  <p><strong>Specialized Dental Care for Women, Children & Families in Hosur, Tamil Nadu.</strong></p>
+  <p><strong>Healthy Smiles, Happier Lives • Specialized Dental Care for Women, Children & Families in Hosur</strong></p>
 
   <p>
     <a href="#overview">Overview</a> •
